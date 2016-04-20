@@ -1,0 +1,18 @@
+@import url(http://fonts.googleapis.com/css?family=Permanent+Marker);
+
+body {
+	background: url(../img/background.jpg) no-repeat center center fixed; 
+	background-color: rgba(80,80,80,0.7);
+	background-blend-mode: screen;
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	font-family: 'Permanent Marker', 'cursive';
+	font-size: 1.5em;
+}
+input {
+	border: 2px solid #999;
+	font-family: Helvetica, sans-serif;
+	color: #999;
+}
+
+
