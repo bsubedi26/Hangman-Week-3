@@ -11,6 +11,9 @@ html {
   background: url(../img/background.jpg) no-repeat center center fixed; 
   background-color: rgba(80,80,80,0.7);
   background-blend-mode: screen;
+  width: 100%;
+  height: 100%;
+  display: block;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
